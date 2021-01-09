@@ -1,3 +1,11 @@
+Notes on Project:
+**This is a decent start on what would be my final portfolio website. I believe that i have met the majority of the technical requirements and would like some feedback on how to get the breakover points dialed in as there is some overlap of columns at certain resolutions.
+
+
+Project Requirements listed below: 
+
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
